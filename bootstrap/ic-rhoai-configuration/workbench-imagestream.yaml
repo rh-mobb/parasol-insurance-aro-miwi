@@ -8,7 +8,7 @@ metadata:
     opendatahub.io/notebook-image-name: CUSTOM - Insurance Claim Processing Lab Workbench
     opendatahub.io/notebook-image-order: '01'
     opendatahub.io/notebook-image-url: >-
-      https://github.com/rhpds/lb2768-building-security-focused-ai-applications-using-managed-identities-on-aro/tree/dev/bootstrap/workbench-image
+      https://github.com/rh-mobb/parasol-insurance-aro-miwi/tree/dev/bootstrap/workbench-image
     opendatahub.io/recommended-accelerators: '[]'
     argocd.argoproj.io/sync-wave: "1"
   name: ic-workbench

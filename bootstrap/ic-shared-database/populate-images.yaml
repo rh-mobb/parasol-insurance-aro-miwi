@@ -24,7 +24,7 @@ spec:
         args:
         - -ec
         - |-
-          git clone https://github.com/rhpds/lb2768-building-security-focused-ai-applications-using-managed-identities-on-aro.git parasol-insurance
+          git clone https://github.com/rh-mobb/parasol-insurance-aro-miwi.git parasol-insurance
 
           cat << 'EOF' | python3
           import boto3, os, botocore

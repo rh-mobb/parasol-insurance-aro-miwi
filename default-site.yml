@@ -9,7 +9,7 @@ ui:
   supplemental_files: ./content/supplemental-ui
 
 content:
-  edit_url: 'https://github.com/rhpds/lb2768-building-security-focused-ai-applications-using-managed-identities-on-aro/edit/dev/{path}'
+  edit_url: 'https://github.com/rh-mobb/parasol-insurance-aro-miwi/edit/dev/{path}'
   sources:
     - url: ./
       start_path: content

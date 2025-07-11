@@ -45,7 +45,7 @@ spec:
   project: default
   source:
     path: lab-materials/05/app
-    repoURL: https://github.com/rhpds/lb2768-building-security-focused-ai-applications-using-managed-identities-on-aro.git
+    repoURL: https://github.com/rh-mobb/parasol-insurance-aro-miwi.git
     targetRevision: main
   syncPolicy:
     automated:
